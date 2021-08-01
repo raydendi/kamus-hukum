@@ -21,16 +21,16 @@ Pengambilan definisi berasal dari:
 10. _US Courts Glossary_
 
 __Data ini berasal dari :__
-* [BPK RI](https://peraturan.bpk.go.id/Home/Glosarium]), Database Badan Pemeriksa Keuangan Republik Indonesia
-* _Fork_ proyek [Openlegaldictionary](https://github.com/digitallawyer/openlegaldictionary), Project yang menyediakan kamus berasal dari Black Law's Dictionary(2010) yang merupakan bagian dari project open source [Lex Predict](https://github.com/LexPredict/lexpredict-legal-dictionary) 
-* serta [US Courts Glossary](https://www.uscourts.gov/glossary)
+* [BPK RI](https://peraturan.bpk.go.id/Home/Glosarium]), Database Badan Pemeriksa Keuangan Republik Indonesia;
+* _Fork_ proyek [Openlegaldictionary](https://github.com/digitallawyer/openlegaldictionary), Project yang menyediakan kamus berasal dari Black Law's Dictionary(2010) yang merupakan bagian dari project open source [Lex Predict](https://github.com/LexPredict/lexpredict-legal-dictionary);
+* serta [US Courts Glossary](https://www.uscourts.gov/glossary).
 
 
 ### Cara Menggunakan 
 Untuk penggunaannya dapat dilakukan secara offline dengan membuka format file  _.html_ project ini di Browser kalian.
 
 
-### Cara mengunduh 
+### Cara Mengunduh 
 Ada 2 jenis cara untuk mengunduh: 
 1. __Cara pertama__, menggunakan terminal pada _Operating System(OS)_: 
 ```
@@ -41,7 +41,7 @@ Namun terlebih dahulu menginstall software git pada OS kalian misal pada debian 
 sudo apt install git
 ```
 
-2. __Cara kedua__, adalah dengan cara menekan tombol _code_ dan tekan download ZIP > Kemudian ekstrak pada folder di komputer kalian.
+2. __Cara kedua__, adalah dengan cara menekan tombol _code_ dan tekan download ZIP > Kemudian ekstrak pada folder di komputer kalian. ![](tutorialdownload.png)
 
 
 ## Contributing

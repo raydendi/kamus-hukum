@@ -1,7 +1,7 @@
 
 # Kamus Hukum Indonesia dan _Black Law's Dictionary_
 
-Proyek ini merupakan Kumpulan Kamus hukum berisi 15000+ definisi dan terminologi hukum yang berasal dari berbagai peraturan dan kamus hukum Black Law's Dictionary dalam bentuk format HTML dan csv. 
+Proyek ini merupakan kumpulan kamus hukum berisi 15000+ definisi dan terminologi hukum yang berasal dari berbagai peraturan dan kamus hukum Black Law's Dictionary dalam bentuk format HTML dan csv. 
 
 ### Latar Belakang
 Perlunya mahasiswa dan praktisi hukum untuk memahami definisi dan terminologi hukum sehingga dirasa penting untuk memiliki kamus hukum dalam bentuk digital secara offline. Tujuan lainnya juga ditujukan kepada developer agar dapat memiliki data mentah ini untuk keperluan pengembangan website atau keperlun pengembangan aplikasi mobile, serta untuk keperluan _machine learning_. Banyak daripada kamus hukum berada dalam bentuk buku dan belum _up to date_ dengan perkembangan definisi hukum yang ada dalam peraturan.  

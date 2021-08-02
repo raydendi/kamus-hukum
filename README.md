@@ -4,8 +4,7 @@
 Proyek ini merupakan Kumpulan Kamus hukum berisi 15000+ definisi dan terminologi hukum yang berasal dari berbagai peraturan dan kamus hukum Black Law's Dictionary dalam bentuk format HTML dan csv. 
 
 ### Latar Belakang
-Perlunya komunitas hukum untuk memahami definisi dan terminologi hukum dirasa penting untuk memiliki kamus hukum dengan bentuk digital secara offline. Bagi developer data mentah ini penting untuk keperluan pengembangan website hukum atau keperlun pengembangan aplikasi mobile, serta untuk keperluan 
-
+Perlunya mahasiswa dan praktisi hukum untuk memahami definisi dan terminologi hukum sehingga dirasa penting untuk memiliki kamus hukum dalam bentuk digital secara offline. Tujuan lainnya juga ditujukan kepada developer agar dapat memiliki data mentah ini untuk keperluan pengembangan website atau keperlun pengembangan aplikasi mobile, serta untuk keperluan _machine learning_. Banyak daripada kamus hukum berada dalam bentuk buku dan belum _up to date_ dengan perkembangan definisi hukum yang ada dalam peraturan.  
 
 ### Sumber Data 
 Pengambilan definisi berasal dari:
@@ -43,9 +42,11 @@ sudo apt install git
 
 2. __Cara kedua__, adalah dengan cara menekan tombol _code_ dan tekan download ZIP > Kemudian ekstrak pada folder di komputer kalian. ![](tutorialdownload.png)
 
+### Siklus Rilis 
+Akan dilakukan setiap 6 bulan sekali. 
 
-## Contributing
-Kumpulan kamus hukum ini masih banyak kekurangan karena belum terupdate dengan banyaknya peraturan yang dikeluarkan oleh pemerintah dan definisi-definisi hukum lainnya yang belum dimasukan ke dalam project ini. Sehingga segala bentuk perbaikan atau pull request akan sangat membantu project ini.
+### Kontribusi
+Kumpulan kamus hukum ini masih banyak kekurangan karena belum terupdate dengan banyaknya peraturan yang dikeluarkan oleh pemerintah dan definisi-definisi hukum lainnya yang belum dimasukan ke dalam proyek ini. Sehingga segala bentuk perbaikan atau pull request akan sangat membantu.
 
-## Lisensi 
+### Lisensi 
 Lisensi MIT
